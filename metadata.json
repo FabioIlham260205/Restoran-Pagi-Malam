@@ -1,0 +1,6 @@
+{
+  "name": "Bistro Rasa",
+  "description": "A beautiful interactive restaurant explorer app with custom animations, profile editing, persistent SharedPreferences, dark mode, and stunning menus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
